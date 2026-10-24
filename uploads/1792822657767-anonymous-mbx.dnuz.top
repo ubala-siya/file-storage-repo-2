@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MovieBox API by DanuZz | Free MovieBox REST API - Danuzz Dev (MovaNest)</title>
+<meta name="description" content="DanuZz MovieBox API by Danuzz Dev (MovaNest): a fast, free REST API for MovieBox with home feeds, search, catalogs, metadata, streams, subtitles and downloads. Sign in with GitHub and get your API key instantly.">
+<meta name="keywords" content="DanuZz MovieBox API, Danuzz MovieBox API, DanuZz Dev, Danuzz Dev, DanuZz, Danuzz, dnuzi, dnuz, MovaNest, MovaNest Tm, MovieBox API, MovieBox REST API, MovieBox API free, MovieBox API key, moviebox stream API, moviebox download API, moviebox subtitles API, movie API, movie streaming API, movie search API, TV series API, anime API, free API key, GitHub login API, mbx.dnuz.top, dnuz.top">
+<meta name="author" content="DanuZz Dev (MovaNest Tm | Lk)">
+<meta name="application-name" content="DanuZz MovieBox API">
+<meta name="apple-mobile-web-app-title" content="MovieBox API">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mbx.dnuz.top/">
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<meta name="google-site-verification" content="FW1ImO9QCeycC_Z0bxhSs_1wLIKjkUEjwMZSEglpdLE">
+<meta name="theme-color" content="#07080d">
+<meta name="color-scheme" content="dark">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mbx.dnuz.top/">
+<meta property="og:site_name" content="MovieBox API">
+<meta property="og:title" content="DanuZz MovieBox API | Every title. One elegant API.">
+<meta property="og:description" content="DanuZz MovieBox API by Danuzz Dev: home feeds, search, catalogs, metadata, streams and subtitles as clean JSON. Free API key with GitHub sign-in.">
+<meta property="og:image" content="https://mbx.dnuz.top/images/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="MovieBox API - Every title. One elegant API.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="DanuZz MovieBox API by @MovaNest">
+<meta name="twitter:description" content="A fast, async REST API for MovieBox. Get your free key with GitHub.">
+<meta name="twitter:image" content="https://mbx.dnuz.top/images/og-image.png">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+<link rel="shortcut icon" href="/images/favicon-32x32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Sora:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>html{background:#07080d;color-scheme:dark}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mbx.dnuz.top/#website","url":"https://mbx.dnuz.top/","name":"DanuZz MovieBox API","alternateName":["MovieBox API","Danuzz MovieBox API","DanuZz Dev MovieBox API","MovaNest MovieBox API"],"description":"A fast, free REST API for MovieBox by DanuZz Dev (MovaNest).","inLanguage":"en","image":"https://mbx.dnuz.top/images/og-image.png","publisher":{"@id":"https://mbx.dnuz.top/#author"}},{"@type":"Person","@id":"https://mbx.dnuz.top/#author","name":"DanuZz Dev","alternateName":["Danuzz","DanuZz","dnuzi","MovaNest"],"url":"https://github.com/dnuzi","sameAs":["https://github.com/dnuzi"]}]}</script>
+  <script type="module" crossorigin src="/assets/index-CfUg7DgS.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/style-Drlz-8o3.css">
+</head>
+<body><div id="root"></div><noscript style="display:block;padding:24px;color:#f5f3ee">Please enable JavaScript to use MovieBox API.</noscript></body>
+</html>
